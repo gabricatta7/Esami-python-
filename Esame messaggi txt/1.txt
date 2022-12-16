@@ -1,0 +1,12 @@
+mese1:2
+mese2:0
+mese3:0
+mese4:0
+mese5:1
+mese6:1
+mese7:2
+mese8:0
+mese9:0
+mese10:0
+mese11:0
+mese12:0

@@ -1,0 +1,14 @@
+ricerca in orizzontale
+False
+False
+False
+False
+False
+False
+ricerca in verticale
+False
+False
+False
+False
+True
+True
