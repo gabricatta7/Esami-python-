@@ -1,5 +1,0 @@
-Amendola=1
-Emilia=0
-Botti=1
-Castello=1
-Pisa=1
