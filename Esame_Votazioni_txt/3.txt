@@ -1,0 +1,3 @@
+Roma 80.7
+Milano 92.6
+Napoli 87.9
